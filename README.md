@@ -3,6 +3,7 @@
 <p>Welcome to my GitHub Account! </br> I'm BAGAS, from <img src="https://cdn-icons-png.flaticon.com/512/6157/6157721.png" width="13"/> <b>Ponorogo, Indonesia</b>.
 <h3>Things I code with</h3>
 
+# 🖥️ Technical Skills: 
 <p>
   <img alt="HTML" src="https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img alt="PHP" src="https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
