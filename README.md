@@ -7,7 +7,7 @@
   <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img alt="PHP" src="https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
   <img alt="Javascript" src="https://img.shields.io/badge/-Javascript-D3B32C?style=flat-square&logo=javascript&logoColor=white" />
-  <img alt="CSS" src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+  <img alt="CSS" src="https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white" />
   <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-42759C?style=flat-square&logo=mysql&logoColor=white" />
   <img alt="OpenAI" src="https://img.shields.io/badge/-OpenAI-229D79?style=flat-square&logo=openai&logoColor=white" />
   <img alt="Python" src="https://img.shields.io/badge/-Python-407AA9?style=flat-square&logo=python&logoColor=white" />
