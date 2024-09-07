@@ -16,3 +16,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bagasdouzun&layout=pie)](https://github.com/bagasdouzun/github-readme-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bagasdouzun&layout=compact)
 <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" alt="About Me GIF" width="180px">
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=bagasdouzun&theme=radical&no-frame=false&no-bg=true&margin-w=4)
