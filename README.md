@@ -13,6 +13,6 @@
   <img alt="OpenAI" src="https://img.shields.io/badge/-OpenAI-229D79?style=flat-square&logo=openai&logoColor=white" />
 </p>
 
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bagasdouzun&hide_progress=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bagasdouzun&layout=compact)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bagasdouzun&layout=pie)](https://github.com/bagasdouzun/github-readme-stats)
