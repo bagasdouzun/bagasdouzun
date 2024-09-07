@@ -3,7 +3,7 @@
 <p>Welcome to my GitHub Account! </br> I'm BAGAS, from <img src="https://cdn-icons-png.flaticon.com/512/6157/6157721.png" width="13"/> <b>Ponorogo, Indonesia</b>.
 <h3>Things I code with</h3>
 
-# 🖥️ Technical Skills: 
+# Things I code with
 <p>
   <img alt="HTML" src="https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img alt="PHP" src="https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
@@ -18,5 +18,5 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bagasdouzun&layout=compact)
 <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" alt="About Me GIF" width="180px">
 
-## 🏆 GitHub Trophies
+## GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=bagasdouzun&theme=radical&no-frame=false&no-bg=true&margin-w=4)
