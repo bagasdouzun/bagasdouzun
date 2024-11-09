@@ -11,6 +11,7 @@
   <img alt="Python" src="https://img.shields.io/badge/-Python-407AA9?style=flat-square&logo=python&logoColor=white" />
   <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-42759C?style=flat-square&logo=mysql&logoColor=white" />
   <img alt="OpenAI" src="https://img.shields.io/badge/-OpenAI-229D79?style=flat-square&logo=openai&logoColor=white" />
+  <img alt="Laravel" src="https://img.shields.io/badge/-Laravel-229D79?style=flat-square&logo=openai&logoColor=white" />
 </p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bagasdouzun&layout=pie)](https://github.com/bagasdouzun/github-readme-stats)
