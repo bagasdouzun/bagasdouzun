@@ -12,7 +12,7 @@
   <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-42759C?style=flat-square&logo=mysql&logoColor=white" />
   <img alt="OpenAI" src="https://img.shields.io/badge/-OpenAI-229D79?style=flat-square&logo=openai&logoColor=white" />
   <img alt="Laravel" src="https://img.shields.io/badge/-Laravel-f03d30?style=flat-square&logo=laravel&logoColor=white" />
-  <img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-f03d30?style=flat-square&logo=bootstrap&logoColor=white" />
+  <img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-7432f9?style=flat-square&logo=bootstrap&logoColor=white" />
 </p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bagasdouzun&layout=pie)](https://github.com/bagasdouzun/github-readme-stats)
