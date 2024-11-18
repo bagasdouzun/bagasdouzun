@@ -15,7 +15,7 @@
   <img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-7432f9?style=flat-square&logo=bootstrap&logoColor=white" />
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bagasdouzun&layout=pie)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bagasdouzun&layout=pie)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bagasdouzun&layout=compact)
 
 ## GitHub Trophies
